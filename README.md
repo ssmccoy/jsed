@@ -11,8 +11,4 @@ Features supported presently:
   * Pretty printing.
   * Control over indent level.
 
-Features to come soon:
-  * Sorted attribute names.
-  * Multiple chained transformations.
-  * The ability to combine results as a list, rather than emitting
-    broken JSON.
+The author recommends [jq](https://github.com/stedolan/jq) instead.
