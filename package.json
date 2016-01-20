@@ -1,0 +1,24 @@
+{
+  "name": "jsed",
+  "version": "0.0.0",
+  "description": "JSON Stream EDitor",
+  "main": "bin/jsed.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ssmccoy/jsed.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Scott S. McCoy",
+  "license": "BSD",
+  "dependencies": {
+    "args": ""
+  },
+  "devDependencies": {
+  },
+  "bin": {
+      "jsed": "bin/jsed.js"
+  }
+}
